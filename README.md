@@ -201,7 +201,8 @@ git add,commit,push 취소<br>
 
 # 🙌 개발 환경
 
-![image](C:\Users\hh020\OneDrive\사진\스크린샷/스크린샷 2024-07-08 165201.png)
+![스크린샷 2024-07-08 165201](https://github.com/hh02021/friendy/assets/158557360/9aad2f8e-1997-4941-9164-7d49ca6b246f)
+
 
 # 🙌 개발 기간
 

@@ -203,14 +203,13 @@ git add,commit,push 취소<br>
 
 ![스크린샷 2024-07-08 165201](https://github.com/hh02021/friendy/assets/158557360/9aad2f8e-1997-4941-9164-7d49ca6b246f)
 
-
 # 🙌 개발 기간
 
-![KakaoTalk_20240626_114057956.png](Friendy%200464131a3b134e44ae320d68d9764cad/KakaoTalk_20240626_114057956.png)
+![friendy 개발일정](https://github.com/hh02021/friendy/assets/158557360/f17c22f9-f82d-40ab-8d72-d5901971ca57)
 
 # 🐱 데이터 베이스 - ERD
 
-![Untitled](Friendy%200464131a3b134e44ae320d68d9764cad/Untitled.png)
+![friendy 데이터베이스](https://github.com/hh02021/friendy/assets/158557360/f6c3a44a-0f8c-4121-9cb9-d227bb722aa7)
 
 http://erdcloud.com/d/YMQY2jjSHqhQgEYFj
 
@@ -218,15 +217,15 @@ http://erdcloud.com/d/YMQY2jjSHqhQgEYFj
 
 **사용자**
 
-![userFlow.drawio.png](Friendy%200464131a3b134e44ae320d68d9764cad/userFlow.drawio.png)
+![friendy 사용자 플로우차트](https://github.com/hh02021/friendy/assets/158557360/5f7c0880-0b31-40be-8792-36013068936f)
 
 **관리자** 
 
-![adminFlow.drawio.png](Friendy%200464131a3b134e44ae320d68d9764cad/adminFlow.drawio.png)
+![friendy 관리자 플로우차트png](https://github.com/hh02021/friendy/assets/158557360/fe30c871-2961-4c28-abf8-9df6cd432395)
 
 # 🖼️ 레이아웃
 
-![friend레이아웃.png](Friendy%200464131a3b134e44ae320d68d9764cad/friend%25EB%25A0%2588%25EC%259D%25B4%25EC%2595%2584%25EC%259B%2583.png)
+![friendy 레이아웃png](https://github.com/hh02021/friendy/assets/158557360/6c3e0972-6761-440b-9a14-9dd1a7827640)
 
 # 🪂 나의 역할
 
